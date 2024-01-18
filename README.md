@@ -1,5 +1,5 @@
 # updateMC
-Migration authentification LDAP vers MindefConnect
+Migration authentification LDAP vers MindefConnect pour ILIAS V7
 
 ## Description
 
