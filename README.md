@@ -47,13 +47,20 @@ Le script affichera les résultats de chaque étape, signalant les erreurs éven
 
 #./updateMC.sh
 Nom de la base de données : bdd_ilias
+
 Login : votre_login
+
 Mot de passe : *************
+
 Type d'authentification à migrer (A - Annudef, I - Intradef, X - Annuler) : A
 
+
 Vous avez choisi de migrer vers MindefConnect avec l'authentification Intradef.
+
 Résultat de la requête :
+
 La requête a été exécutée avec succès.
+
 
 ---
 
