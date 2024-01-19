@@ -46,6 +46,8 @@ Le script affichera les résultats de chaque étape, signalant les erreurs éven
 **Exemple d'Utilisation :**
 
 #./updateMC.sh
+
+
 Nom de la base de données : bdd_ilias
 
 Login : votre_login
